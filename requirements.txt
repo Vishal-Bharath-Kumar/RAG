@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+chromadb
+google-genai
+pypdf
+python-docx
+python-multipart
+numpy
+streamlit
+requests
+python-dotenv
